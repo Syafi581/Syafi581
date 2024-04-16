@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Syafi581
 - 👀 I’m interested in github
-- 🌱 I’m currently learning ...iya
-- 💞️ I’m looking to collaborate on ..iya.
-- 📫 How to reach me ...iya
+- 🌱 I’m currently learning ...github
+- 
+- 💞️ I’m looking to collaborate on ..github
+- 📫 How to reach me ...saya
 - 😄 Pronouns: ..iya.
 - ⚡ Fun fact: ...iya
 
